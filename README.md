@@ -5,6 +5,7 @@ A simple First Person shooter that uses HTTP and JSON modules of Unreal Engine 5
 **Progress:**
 
 1. I found that the dynamically spawning objects using json data from the internet is the rate determining step for this project. Hence I decided to proceed with this for two reasons:
+
   i) I had never worked with json files before, I got to know about them during this assignment and essentially, a part of this assignment is also a educational experience for me. I had also never worked with        fetching values from the internet before. So this was a challenge that I sought to figure out.
   ii) Since, this was the hardest part to complete, I figured to complete this part of assignment first.
 
@@ -28,11 +29,10 @@ I was able to successfully use the C++ API to fetch data from the internet into 
 3. Aptitude Issue: I am not from a CS background, I am learning C++ as I go along in my game development journey. Since, I had laser focused myself on creating games from base C++, I kinda forgot to revise       my Unreal C++. So it took a long time to refresh memory on Unreal C++ development.
 
 **Existing Functionality:**
-
-    You can play the game in the TEST_LEVEL using BP_ShooterGameMode. Later check the output log for the fetched json file. It has an "Error" flag.
-   <img width="452" height="330" alt="image" src="https://github.com/user-attachments/assets/162d0a83-c45e-4436-b2a9-b2257d6b9d6e" />
-
-   Here is the **YouTube** Link: https://youtu.be/rNYH6Yox9tU
+    
+  <img width="452" height="330" alt="image" src="https://github.com/user-attachments/assets/162d0a83-c45e-4436-b2a9-b2257d6b9d6e" />
+  You can play the game in the TEST_LEVEL using BP_ShooterGameMode. Later check the output log for the fetched json file. It has an "Error" flag.
+  Here is the **YouTube** Link: https://youtu.be/rNYH6Yox9tU
 
 **Sources:**
 
