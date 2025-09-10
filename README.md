@@ -15,18 +15,17 @@ I was able to successfully use the C++ API to fetch data from the internet into 
 1. Having installed UE 5.6 for the first time, I had some issues running it at an acceptable frame rate on my laptop initially.
 
 2. Later, a Vulnerability Warning was Encountered, which was later resolved.
-    Date: September 9, 2025
-    Project: Unreal Engine 5.6
-    Issue: During development, a warning was triggered regarding a known vulnerability in the NuGet package:
-    
-    Package: Magick.NET-Q16-HDRI-AnyCPU
-    Version: 14.7.0
-    Severity: Moderate to High
-    Advisory: GHSA-6hgw-6x87-578x
-    Description: The vulnerability involves a potential infinite loop in image processing due to malformed XMP profile data, which can lead to a denial of service (DoS).
-    Mitigation: Upgrade to version 14.8.2 or later to resolve the issue.
 
-   3. Aptitude Issue: I am not from a CS background, I am learning C++ as I go along in my game development journey. Since, I had laser focused myself on creating games from base C++, I kinda forgot to revise       my Unreal C++. So it took a long time to refresh memory on Unreal C++ development.
+   Date: September 9, 2025
+   Project: Unreal Engine 5.6
+   Issue: During development, a warning was triggered regarding a known vulnerability in the NuGet package:
+    
+   Package: Magick.NET-Q16-HDRI-AnyCPU
+   Version: 14.7.0
+   Description: The vulnerability involves a potential infinite loop in image processing due to malformed XMP profile data, which can lead to a denial of service (DoS).
+   Mitigation: Upgrade to version 14.8.2 or later to resolve the issue.
+
+3. Aptitude Issue: I am not from a CS background, I am learning C++ as I go along in my game development journey. Since, I had laser focused myself on creating games from base C++, I kinda forgot to revise       my Unreal C++. So it took a long time to refresh memory on Unreal C++ development.
 
 **Existing Functionality:**
 
@@ -37,13 +36,13 @@ I was able to successfully use the C++ API to fetch data from the internet into 
 
 **Sources:**
 
-  1.  https://dev.epicgames.com/community/learning/tutorials/ZdXD/call-rest-api-using-http-json-from-ue5-c#usefullinks
+1.  https://dev.epicgames.com/community/learning/tutorials/ZdXD/call-rest-api-using-http-json-from-ue5-c#usefullinks
 
-  2. https://pastebin.com/sN4ddwd2
+2. https://pastebin.com/sN4ddwd2
 
-  3. https://www.orfeasel.com/parsing-json-files/
+3. https://www.orfeasel.com/parsing-json-files/
 
-  4. https://www.youtube.com/watch?v=vLGZp5hl6qU
+4. https://www.youtube.com/watch?v=vLGZp5hl6qU
 
-  5. https://youtu.be/_GQwpppMgiI?si=sdfSstfJqakUjQWL
+5. https://youtu.be/_GQwpppMgiI?si=sdfSstfJqakUjQWL
 
