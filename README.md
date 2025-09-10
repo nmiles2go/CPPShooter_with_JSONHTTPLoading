@@ -29,6 +29,13 @@ I was able to successfully use the C++ API to fetch data from the internet into 
 **Existing Functionality:**
     
   <img width="452" height="330" alt="image" src="https://github.com/user-attachments/assets/162d0a83-c45e-4436-b2a9-b2257d6b9d6e" />
+
+After downloading/cloning the repository, 
+1.   Delete the Saved, Binaries and Intermediate folders 
+2.   Then Right-Click on the UProject file, CPP_JSON_SHOOTER.uproject, go to Show More options, select Generate Visual Studio Project Files
+3.   Double Click on the Solution File, CPP_JSON_SHOOTER.sln
+4.   Build
+5.   Open the Uproject file
   
   You can play the game in the TEST_LEVEL using BP_ShooterGameMode. Later check the output log for the fetched json file. It has an "Error" flag.
   
