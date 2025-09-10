@@ -3,11 +3,9 @@
 A simple First Person shooter that uses HTTP and JSON modules of Unreal Engine 5.6.1 to fetch data from the internet and dynamically create cube actors based on the json data.
 
 **Progress:**
-
 1. I found that the dynamically spawning objects using json data from the internet is the rate determining step for this project. Hence I decided to proceed with this for two reasons:
-
-  i) I had never worked with json files before, I got to know about them during this assignment and essentially, a part of this assignment is also a educational experience for me. I had also never worked with        fetching values from the internet before. So this was a challenge that I sought to figure out.
-  ii) Since, this was the hardest part to complete, I figured to complete this part of assignment first.
+- I had never worked with json files before, I got to know about them during this assignment and essentially, a part of this assignment is also a educational experience for me. I had also never worked with    fetching values from the internet before. So this was a challenge that I sought to figure out.
+- Since, this was the hardest part to complete, I figured to complete this part of assignment first.
 
 I was able to successfully use the C++ API to fetch data from the internet into the project. I couldn't use that data to spawn objects. Need to figure that out.
 
