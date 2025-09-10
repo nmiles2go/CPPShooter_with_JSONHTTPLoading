@@ -29,7 +29,9 @@ I was able to successfully use the C++ API to fetch data from the internet into 
 **Existing Functionality:**
     
   <img width="452" height="330" alt="image" src="https://github.com/user-attachments/assets/162d0a83-c45e-4436-b2a9-b2257d6b9d6e" />
+  
   You can play the game in the TEST_LEVEL using BP_ShooterGameMode. Later check the output log for the fetched json file. It has an "Error" flag.
+  
   Here is the **YouTube** Link: https://youtu.be/rNYH6Yox9tU
 
 **Sources:**
